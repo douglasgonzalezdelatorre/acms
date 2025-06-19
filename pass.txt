@@ -1,0 +1,3 @@
+Acceso de administrador predeterminado:
+Nombre de usuario: admin
+Contraseña: admin123
